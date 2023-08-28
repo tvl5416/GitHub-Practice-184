@@ -1,5 +1,5 @@
 
-# GitHub Pages Assignment
+FFF# GitHub Pages Assignment
 
 **(10 pts) Assignment Instructions**
 
@@ -38,12 +38,13 @@
 
 # Class GitHub Table 
 
+
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Hannah Sugden           | Section 003       | hjs5560              | https://github.com/hjs5560/GitHub-Practice-184                      |  
 | Olivia Beck             | Section 050       | olbeck               | https://github.com/olbeck/GitHub-Practice-184            |  
 | Xihui Xu                | Section 002       | xihuixu              | https://github.com/xihuixu/GitHub-Practice-184           |      
-
+| Taehwan Lee             | Section 002       | tvl5416              | https://github.com/tvl5416/GitHub-Practice-184           |      
 
 
 # Integration of RStudio with Git
