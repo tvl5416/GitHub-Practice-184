@@ -40,7 +40,8 @@
 
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
-| Hannah Sugden           | Section 003       | hjs5560              | https://github.com/hjs5560/GitHub-Practice-184           |  
+| Hannah Sugden           | Section 003       | hjs5560              | https://github.com/hjs5560/GitHub-Practice-184                      
+| Alish Husain              Section 002         AlishHusain            https://github.com/AlishHusain/GitHub-Practice-184
 | Olivia Beck             | Section 050       | olbeck               | https://github.com/olbeck/GitHub-Practice-184            |  
 | Xihui Xu                | Section 002       | xihuixu              | https://github.com/xihuixu/GitHub-Practice-184           |      
 | Phi Dangvy              | Section 002       | Phi-H-D              | https://github.com/Phi-H-D/GitHub-Practice-184           |
