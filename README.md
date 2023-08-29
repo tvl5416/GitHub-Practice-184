@@ -49,6 +49,8 @@
 | Erika Ho                | Section 002       | erikaho              | https://github.com/erikaho/GitHub-Practice-184           |
 | Tisya Vaidya            | Section 002       | tisyavaidya          | https://github.com/tisyavaidya/GitHub-Practice-184       |
 | Ziad Ahmed              | Section 002       | ZiadAhmed56          | https://github.com/ZiadAhmed56/GitHub-Practice-184
+| Trevor Bunch            | Section 002       | TrevBunch            | https://github.com/TrevBunch/GitHub-Practice-184         |
+
 
 
 # Integration of RStudio with Git
